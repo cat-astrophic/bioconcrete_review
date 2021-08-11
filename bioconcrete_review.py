@@ -10,7 +10,7 @@ from cpip import cpip
 
 # Declaring the username + filepath
 
-username = 'macary'
+username = ''
 filepath = 'C:/Users/' + username + '/Documents/Data/bioconcrete/'
 
 # Reading in the data
